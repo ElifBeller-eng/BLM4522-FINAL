@@ -1,0 +1,19 @@
+BLM4522
+ÖZET :
+
+Bu proje, veritabanı sistemlerinin yönetimi ve sürdürülebilirliği konularını kapsamaktadır. Aşağıdaki ana başlıklar çerçevesinde uygulamalı çalışmalar yapılmıştır:
+
+Performans Optimizasyonu ve İzleme: Yavaş sorguların tespiti, execution plan analizi, indeks kullanımı ve istatistik güncellemeleri ile veritabanı performansı artırılmıştır.
+
+Yedekleme ve Felaketten Kurtarma: Tam yedek, log yedeği alma ve farklı restore yöntemleri uygulanmıştır.
+
+Güvenlik ve Erişim Kontrolü: SQL Injection’a karşı önlemler, roller ile erişim sınırlandırmaları ve audit mekanizması incelenmiştir.
+
+Yük Dengeleme & Dağıtık Yapılar: Okuma işlemlerini dağıtarak sistem yükü azaltılmıştır.
+
+ETL Süreçleri ve Veri Temizleme: Hatalı veriler filtrelenip temiz tabloya aktarılmıştır.
+
+Veritabanı Yükseltme ve Otomasyon: Yeni sürüme geçiş, yedekleme, geri dönüş ve zamanlanmış yedekleme işleri senaryolarla gösterilmiştir.
+
+
+BLM4522 Final Proje Açıklaması - Elif BELLER
